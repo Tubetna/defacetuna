@@ -17,7 +17,7 @@ of sites that have been determined by you, this is not dangerous, and this is on
 * `pip2 install requests`
 * `pkg install git`
 * `git clone https://github.com/B012ED/deface.git`
-* `cd deface`
+* `cd defacetuna`
 * `python2 def.py`
 
 **Linux:**
@@ -26,7 +26,7 @@ of sites that have been determined by you, this is not dangerous, and this is on
 * `pip install requests`
 * `apt-get install git`
 * `git clone https://github.com/B012ED/deface.git`
-* `cd deface`
+* `cd defacetuna`
 * `python def.py`
 
 **NOTE:** before using this tool, put your deface script with the def.py file, edit the file 'target.txt' and enter the target url
